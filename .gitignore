@@ -1,2 +1,14 @@
 .venv
+
+# Directories
 /videos
+/frames
+
+# Filetypes
+*.avi
+*.mp4
+
+# YOLO models
+yolo11m.pt
+yolo11s.pt
+yolo11n.pt
